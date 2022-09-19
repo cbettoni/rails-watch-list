@@ -1,24 +1,18 @@
-# README
+# Rails Watch List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is watch list of movies with the basic CRUD features of Ruby on rails
 
-Things you may want to cover:
+bundle install </br>
+rails db:drop </br>
+rails db:create </br>
+rails db:migrate </br>
+rails db:seed </br>
+rails db:migrate </br>
+rails s </br>
 
-* Ruby version
+# Setup
+bundle install </br>
+rails s </br>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Demo
+http://localhost:3000
